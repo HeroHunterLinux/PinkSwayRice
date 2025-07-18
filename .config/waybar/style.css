@@ -1,0 +1,41 @@
+#waybar {
+    border-radius: 6px;
+    padding: 0px;
+    margin: 4px;
+    color: #1f1f33;
+    background-color: rgba(204, 136, 255, 0);
+}
+
+
+#workspaces {
+    color: #1f1f33;
+    border-radius: 8px;
+    padding: 3.5px 10px;
+    background-color: rgba(204, 136, 255, 0.2);
+}
+
+#custom-applauncher {
+    border-radius: 8px;
+    padding: 4px 10px;
+    background-color: rgba(204, 136, 255, 0.2);
+}
+
+#clock {
+    padding: 4px 10px;
+    border-radius: 8px;
+    background-color: rgba(204, 136, 255, 0.2);
+}
+
+#workspaces button:hover {
+    transition-duration: 120ms;
+    color: #8f56e1;
+}
+
+#custom-applauncher:hover {
+    transition-duration: 120ms;
+    color: #8f56e1;
+}
+
+#workspaces button {;
+    color: #1f1f33;
+}
