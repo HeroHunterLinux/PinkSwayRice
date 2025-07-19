@@ -3,7 +3,7 @@
     padding: 0px;
     margin: 4px;
     color: #1f1f33;
-    background-color: rgba(204, 136, 255, 0);
+    background-color: rgba(255, 171, 230, 0);
 }
 
 
@@ -11,19 +11,19 @@
     color: #1f1f33;
     border-radius: 8px;
     padding: 3.5px 10px;
-    background-color: rgba(204, 136, 255, 0.2);
+    background-color: rgba(255, 171, 230, 0.45);
 }
 
 #custom-applauncher {
     border-radius: 8px;
     padding: 4px 10px;
-    background-color: rgba(204, 136, 255, 0.2);
+    background-color: rgba(255, 171, 230, 0.45);
 }
 
 #clock {
     padding: 4px 10px;
     border-radius: 8px;
-    background-color: rgba(204, 136, 255, 0.2);
+    background-color: rgba(255, 171, 230, 0.45);
 }
 
 #workspaces button:hover {
